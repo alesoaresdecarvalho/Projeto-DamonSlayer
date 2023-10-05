@@ -19,7 +19,7 @@ O projeto consiste em um site web dedicado ao anime "Demon Slayer". Ele foi cria
 
 ## Autores
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@alesoaresdecarvalho](https://github.com/alesoaresdecarvalho)
 
 
 ## Contribuindo
